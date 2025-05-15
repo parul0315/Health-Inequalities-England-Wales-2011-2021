@@ -75,6 +75,13 @@ This project demonstrates the effectiveness of combining **visual analytics** wi
 Developed as part of a postgraduate **Visual Analytics coursework project** using publicly available UK census data (2011 & 2021).
 
 **Parul Nagar**  
-Email: parulnagar1245@gmail.com 
+Email: parulnagar1245@gmail.com</br>
 LinkedIn: www.linkedin.com/in/parul-nagar-244894202
+---
+
+## Let's Connect
+
+I'm always open to feedback, collaboration, or discussion on data science, public health analytics, or visualization design.
+
+Feel free to connect with me on LinkedIn or reach out via email. Feedback is welcome!
 
