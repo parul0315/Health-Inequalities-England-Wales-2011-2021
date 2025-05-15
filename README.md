@@ -75,8 +75,8 @@ This project demonstrates the effectiveness of combining **visual analytics** wi
 Developed as part of a postgraduate **Visual Analytics coursework project** using publicly available UK census data (2011 & 2021).
 
 **Parul Nagar**  
-Email: parulnagar1245@gmail.com</br>
-LinkedIn: www.linkedin.com/in/parul-nagar-244894202
+- Email: parulnagar1245@gmail.com
+- LinkedIn: www.linkedin.com/in/parul-nagar-244894202
 ---
 
 ## Let's Connect
