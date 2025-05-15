@@ -56,7 +56,7 @@ Explore the full Tableau dashboard and interact with projections, comparisons, a
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `health_inequality_analysis.ipynb` – Python notebook containing data preprocessing, PCA/UMAP visualizations, and 2030 projections  
 - `Dashboards.twbx` – Tableau packaged workbook containing interactive dashboards  
@@ -64,13 +64,13 @@ Explore the full Tableau dashboard and interact with projections, comparisons, a
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
 This project demonstrates the effectiveness of combining **visual analytics** with **predictive modeling** to uncover and interpret long-term public health trends. The integration of Bayesian regression for forecasting provides a practical tool for informing **regional public health strategy** and addressing systemic inequalities across England and Wales.
 
 ---
 
-## 👤 Author & Contact
+## Author & Contact
 
 Developed as part of a postgraduate **Visual Analytics coursework project** using publicly available UK census data (2011 & 2021).
 
